@@ -1,6 +1,5 @@
 package com.example.desafioFipe.service;
 
-import com.example.desafioFipe.service.IConverterDados;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.CollectionType;

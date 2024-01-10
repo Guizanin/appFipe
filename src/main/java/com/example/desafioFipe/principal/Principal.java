@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 
 public class Principal {
-    private Scanner inputDados = new Scanner(System.in);
+    private final Scanner inputDados = new Scanner(System.in);
 
     public final String BASE_URL = "https://parallelum.com.br/fipe/api/v1/";
 
